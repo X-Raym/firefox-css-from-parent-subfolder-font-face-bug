@@ -1,4 +1,4 @@
-![Demo](https://monosnap.com/file/AdKmhDqiuQD0IdQ1vbfjbOkn4O5uZb.png)
+![Demo](https://monosnap.com/image/AdKmhDqiuQD0IdQ1vbfjbOkn4O5uZb.png)
 
 To replicate:
 
