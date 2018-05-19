@@ -1,0 +1,19 @@
+/* Font */
+@font-face {
+	font-family: 'fontello';
+	src: url('../font/fontello.woff2?73082120') format('woff2');
+	src: url('../font/fontello.eot?73082120#iefix') format('embedded-opentype'),
+		 url('../font/fontello.woff?73082120') format('woff'),
+		 url('../font/fontello.ttf?73082120') format('truetype'),
+		 url('../font/fontello.svg?73082120#fontello') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+#icon:before {
+	font-family: 'fontello';
+	font-variant: normal;
+	font-weight: normal;
+	text-transform: none;
+	content: '\f0eb';
+}
