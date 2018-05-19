@@ -2,7 +2,7 @@
 
 To replicate:
 
-1. Download the zip
+1. Download the zip. This is a local usage bug. Tested on Windows 10.
 2. Open the index.html in Firefox: font-face work
 3. Open the sub-folder/index.sub.html: font-face doesn't work
 
